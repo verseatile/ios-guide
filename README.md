@@ -46,7 +46,7 @@ String interpolation like Javascript's `${variable_name}` is done with `"\(varia
 
 ### IIFE
 
-swift```
+```swift
 let logoView: UIImageView = {
         return UIImageView(image: UIImage(named: "logo"))
     }()
